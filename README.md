@@ -1,2 +1,2 @@
 # ng-daniordan-portfolio
-My portfolio
+My portfolio page featuring my work projects and experience.
