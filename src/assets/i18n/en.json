@@ -21,7 +21,7 @@
   "Experience.Jobs": [
     {
       "Tab": "Freelancer",
-      "Title": "Fullstack developer",
+      "Title": "Fullstack Web Developer",
       "Date": "September 2023 - Present",
       "Description": [
         "Mostly frontend related technical activities but sometimes I do backend",
@@ -31,7 +31,7 @@
         "Develop Django MTV templates using Python.",
         "Coding of API requests with RxJS.",
         "Develop modules with complex reactive forms.",
-        "integration of design improvements and template loading times.",
+        "Integration of design improvements and template loading times.",
         "Automation of processes with data structures.",
         "Design layout with SASS, Bootstrap, Semantic-UI, Bulma, etc."
       ]
