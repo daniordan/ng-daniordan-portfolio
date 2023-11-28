@@ -1,23 +1,23 @@
 {
-  "Header.Item1": "About me",
-  "Header.Item2": "Experience",
-  "Header.Item3": "Projects",
+  "Header.Item1": "Despre mine",
+  "Header.Item2": "Experienta",
+  "Header.Item3": "Proiecte",
   "Header.Item4": "Contact",
-  "Header.cvBtn": "Download CV",
-  "Header.cvName": "CV_Dan_Iordan_en.pdf",
+  "Header.cvBtn": "Descarca CV",
+  "Header.cvName": "CV_Dan_Iordan_ro.pdf",
 
   "Banner.Pretitle": "<Hey! /> Welcome, I'm",
   "Banner.Description": "I have <span class='underline'>4+ years of experience</span> in software development. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular (+Typescript & RxJS)</span> and <span class='underline'>Django (+Python)</span> applying best practices and development standards.",
   "Banner.ActionBtn": "Get in touch",
 
-  "AboutMe.Title": "About me",
+  "AboutMe.Title": "Despre mine",
   "AboutMe.Paragraphs": [
     "With <span class='underline'>4+ years of experience</span> in the dynamic and evolving field of automotive <span class='underline'>sensor technology</span> and <span class='underline'>test automation frameworks</span>, I have developed a diverse and robust skill set. This experience has enabled me to create innovative solutions and seamlessly integrate advanced technologies in high-pressure environments, consistently delivering results that meet the rigorous demands of the automotive industry.",
     "My passion for technology and continuous learning recently led me to explore the world of <span class='underline'>web application development</span>. As a quick and enthusiastic learner, I have successfully completed intensive full-stack web development courses, focusing on <span class='underline'>Django</span> and <span class='underline'>Angular</span> frameworks. This new venture has not only expanded my technical skill set but also provided me with fresh perspectives on software development. Since then, I have developed <span class='underline'>20+</span> webapps.",
     "In my professional journey, I have gained proficiency in a variety of technologies, which include (but are not limited to):"
   ],
 
-  "Experience.Title": "Experience",
+  "Experience.Title": "Experienta",
   "Experience.Jobs": [
     {
       "Tab": "Freelancer",
@@ -66,7 +66,7 @@
     }
   ],
 
-  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Title": "Proiectele mele",
   "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
     {
@@ -253,7 +253,7 @@
     }
   ],
 
-  "OtherProjects.Title": "More projects",
+  "OtherProjects.Title": "Alte proiecte",
   "OtherProjects.Projects": [
     {
       "Title": "Fast-Paced Math Game",
