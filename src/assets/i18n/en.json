@@ -3,82 +3,65 @@
   "Header.Item2": "Experience",
   "Header.Item3": "Projects",
   "Header.Item4": "Contact",
-  "Header.cvBtn": "Resume",
-  "Header.cvName": "CV_Jose_Hernandez_Ingles.pdf",
+  "Header.cvBtn": "Download CV",
+  "Header.cvName": "CV_Dan_Iordan_en.pdf",
 
-  "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I have <span class='underline'>4 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and sometimes in <span class='underline'>Laravel</span> applying good practices and development standards.",
+  "Banner.Pretitle": "<Hey! /> Welcome, I'm",
+  "Banner.Description": "I have <span class='underline'>4+ years of experience</span> in software development. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular (+Typescript & RxJS)</span> and <span class='underline'>Django (+Python)</span> applying best practices and development standards.",
   "Banner.ActionBtn": "Get in touch",
 
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "In my <span class='underline'>4 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Laravel and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
-    "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
-    "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    "With <span class='underline'>4+ years of experience</span> in the dynamic and evolving field of automotive <span class='underline'>sensor technology</span> and <span class='underline'>test automation frameworks</span>, I have developed a diverse and robust skill set. This experience has enabled me to create innovative solutions and seamlessly integrate advanced technologies in high-pressure environments, consistently delivering results that meet the rigorous demands of the automotive industry.",
+    "My passion for technology and continuous learning recently led me to explore the world of <span class='underline'>web application development</span>. As a quick and enthusiastic learner, I have successfully completed intensive full-stack web development courses, focusing on <span class='underline'>Django</span> and <span class='underline'>Angular</span> frameworks. This new venture has not only expanded my technical skill set but also provided me with fresh perspectives on software development. Since then, I have developed <span class='underline'>20+</span> webapps.",
+    "In my professional journey, I have gained proficiency in a variety of technologies, which include (but are not limited to):"
   ],
 
   "Experience.Title": "Experience",
   "Experience.Jobs": [
     {
-      "Tab": "Project",
-      "Title": "Fullstack developer",
-      "Date": "December 2019 - Present",
-      "Description": [
-        "Creation and maintenance of a monitoring platform with graphics in WordPress.",
-        "Functional programming in templates and plugins to add the necessary monitoring features.",
-        "Implementation of continuous integration and daily backups.",
-        "Creation and maintenance of a second Monitoring Platform Done in Angular, Angular Material, Laravel, Mysql, RxJS, Sass with graphics (configurable), alarm system, and user management and configuration of general parameters.",
-        "Planning meetings in reports."
-      ]
-    },
-    {
       "Tab": "Freelancer",
-      "Title": "Independent",
-      "Date": "May 2016 - Present",
+      "Title": "Fullstack developer",
+      "Date": "September 2023 - Present",
       "Description": [
-        "Implementing continuous improvements, working on frontend and backend.",
-        "Creating platforms with Angular, Laravel, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-        "Automation of processes with data structures.",
-        "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
-      ]
-    },
-    {
-      "Tab": "Moebius",
-      "Title": "FullStack developer",
-      "Date": "July 2017 - October 2018",
-      "Description": [
-        "Leading a team of 4 people in the development of a Tourism Data management platform made in Angular, Laravel, and MySQL.",
-        "Implementation CI / CD in Azure. Refactoring and optimizing application load times.",
+        "Mostly frontend related technical activities but sometimes I do backend",
+        "Develop platforms with Angular, Typescript, RxJS, Django, Python, with functional, reactive and object-oriented programming paradigms.",
+        "Implementation of continuous improvements, correcting bugs and implementing new features.",
+        "Functional programming in Javascript / jQuery, styles in SASS.",
+        "Develop Django MTV templates using Python.",
         "Coding of API requests with RxJS.",
-        "Creation of modules with complex reactive forms",
-        "Writing weekly reports about goals and plans."
+        "Develop modules with complex reactive forms.",
+        "integration of design improvements and template loading times.",
+        "Automation of processes with data structures.",
+        "Design layout with SASS, Bootstrap, Semantic-UI, Bulma, etc."
       ]
     },
     {
-      "Tab": "TechLatam",
-      "Title": "Frontend developer",
-      "Date": "February 2016 - May 2017",
+      "Tab": "Continental",
+      "Title": "Software Developer",
+      "Date": "September 2019 - Present",
       "Description": [
-        "Creation of WordPress templates with ACF, functional programming in Javascript / jQuery, styles in SASS",
-        "integration of design improvements, and template loading times.",
-        "Effective communication with the design team, working with Avocode / Figma."
+        "Develop test automation framework for Trace32 and Vector Canoe test tools using in Python and Robot Framework.",
+        "Integration of test automation framework in CI / CD pipelines with Jenkins and Groovy.",
+        "Develop SW for ECUs in Sensor projects (radar, camera, lidar, etc) in Embedded C.",
+        "Design, implement, develop source code and tests the modules within a SW project.",
+        "Peer reviews (e.g. design, code, module test), pair coding and version control with Git/GitHub",
+        "Refactoring and bug fixing.",
+        "Participate in the necessary requirements engineering.",
+        "Detailed design, coding and module testing of specific SW modules.",
+        "Reuse and adaptation of existing SW modules.",
+        "Delivery of the committed work packages results within the planned time, effort and quality.",
+        "Proactive communication of e.g. delays, problems during development.",
+        "Engaged in a dynamic and collaborative work environment as part of a SCRUM team, functioning within the Agile methodology.",
+        "Mentoring new colleagues and team members."
       ]
     },
     {
-      "Tab": "CANTV",
-      "Title": "System analyst",
-      "Date": "November 2015 - December 2016",
+      "Tab": "Non-SWD/IT",
+      "Title": "Branch Manager Unicredit Bank / ABN AMRO Bank",
+      "Date": "November 2002 - September 2019",
       "Description": [
-        "Programming of new functionalities for an existing employee management platform made in Angular and ExpressJS.",
-        "Perform refactoring of old code. Ensuring compatibility of every dependency in every update, along with regular Angular update as well."
-      ]
-    },
-    {
-      "Tab": "IEP",
-      "Title": "English teacher",
-      "Date": "January 2015 - July 2015",
-      "Description": [
-        "Teaching English at a basic level to an enrollment of more than 200 students."
+        "Coordinating and reporting the entire activity of the Branch."
       ]
     }
   ],
@@ -90,18 +73,17 @@
       "Title": "My Portfolio",
       "Description": "My portfolio page featuring my work projects and experience.",
       "imgs": [
-        "assets/images/emailclient/emailclient1.PNG",
-        "assets/images/emailclient/emailclient2.PNG",
-        "assets/images/emailclient/emailclient3.PNG",
-        "assets/images/emailclient/emailclient4.PNG",
-        "assets/images/emailclient/emailclient5.PNG",
-        "assets/images/emailclient/emailclient6.PNG",
-        "assets/images/emailclient/emailclient7.PNG",
-        "assets/images/emailclient/emailclient8.PNG",
-        "assets/images/emailclient/emailclient9.PNG"
+        "assets/images/portfolio/portfolio1.PNG",
+        "assets/images/portfolio/portfolio2.PNG",
+        "assets/images/portfolio/portfolio3.PNG",
+        "assets/images/portfolio/portfolio4.PNG",
+        "assets/images/portfolio/portfolio5.PNG",
+        "assets/images/portfolio/portfolio6.PNG",
+        "assets/images/portfolio/portfolio7.PNG",
+        "assets/images/portfolio/portfolio8.PNG"
       ],
       "ghLink": "https://github.com/daniordan/ng-daniordan-portfolio",
-      "demoLink": "https://ng-social-daniordan.vercel.app",
+      "demoLink": "https://ng-daniordan-portfolio.vercel.app/en",
       "Technologies": [
         "Angular",
         "Typescript",
@@ -403,7 +385,7 @@
     },
     {
       "Title": "EN-RO Translator",
-      "Description": "EN-RO translation app.",
+      "Description": "EN-RO translation application.",
       "ghLink": "https://github.com/daniordan/ng-translator",
       "demoLink": "https://ng-translator-daniordan.vercel.app/",
       "Technologies": [

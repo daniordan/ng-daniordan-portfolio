@@ -1,200 +1,439 @@
 {
-  "Header.Item1": "Despre mine",
-  "Header.Item2": "Experienta",
-  "Header.Item3": "Proiecte",
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
   "Header.Item4": "Contact",
-  "Header.cvBtn": "Curriculum",
-  "Header.cvName": "CV_Jose_Hernandez_Espanol.pdf",
+  "Header.cvBtn": "Download CV",
+  "Header.cvName": "CV_Dan_Iordan_en.pdf",
 
-  "Banner.Pretitle": "Hola! Mi nombre es",
-  "Banner.Description": "Tengo <span class='underline'>4 años de experiencia</span> desarrollando sistemas, interfaces, bots y soluciones tecnológicas para hacer de la web un lugar mejor. Me dedico a escribir y refactorizar código limpio, reutilizable y escalable en <span class='underline'>Angular</span> y en ocaciones en <span class='underline'>Laravel</span> aplicando buenas practicas y estandares de desarrollo.",
-  "Banner.ActionBtn": "Saludame",
+  "Banner.Pretitle": "<Hey! /> Welcome, I'm",
+  "Banner.Description": "I have <span class='underline'>4+ years of experience</span> in software development. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular (+Typescript & RxJS)</span> and <span class='underline'>Django (+Python)</span> applying best practices and development standards.",
+  "Banner.ActionBtn": "Get in touch",
 
-  "AboutMe.Title": "Despre mine",
+  "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "En mis <span class='underline'>4 años como desarrollador</span> busco capacitarme cada día. Al mismo tiempo he trabajado escribiendo <span class='underline'>pruebas unitarias</span>, realizando <span class='underline'>integración continua</span> y también cubriendo roles de backend developer con <span class='underline'>Laravel y Mysql</span>. También he liderado equipos teniendo empatía, ejerciendo motivación a compañeros y estableciendo planes y metas en conjunto.",
-    "Mis capacidades también incluyen implementar mejoras en sistemas, optimizar sitios, estandarizar patrones y sugerir y ejecutar ideas que añadan valor al proyecto en el que este trabajando.",
-    "Algunas de las tecnologías en las que me he capacitado y trabajado incluyen (pero no se limitan) a:"
+    "With <span class='underline'>4+ years of experience</span> in the dynamic and evolving field of automotive <span class='underline'>sensor technology</span> and <span class='underline'>test automation frameworks</span>, I have developed a diverse and robust skill set. This experience has enabled me to create innovative solutions and seamlessly integrate advanced technologies in high-pressure environments, consistently delivering results that meet the rigorous demands of the automotive industry.",
+    "My passion for technology and continuous learning recently led me to explore the world of <span class='underline'>web application development</span>. As a quick and enthusiastic learner, I have successfully completed intensive full-stack web development courses, focusing on <span class='underline'>Django</span> and <span class='underline'>Angular</span> frameworks. This new venture has not only expanded my technical skill set but also provided me with fresh perspectives on software development. Since then, I have developed <span class='underline'>20+</span> webapps.",
+    "In my professional journey, I have gained proficiency in a variety of technologies, which include (but are not limited to):"
   ],
 
-  "Experience.Title": "Experienta",
+  "Experience.Title": "Experience",
   "Experience.Jobs": [
     {
-      "Tab": "Proyex",
-      "Title": "Fullstack developer",
-      "Date": "Diciembre 2019 - Actualidad",
-      "Description": [
-        "Creación y mantenimiento de una plataforma de monitorio con gráficos en Wordpress.",
-        "Programación funcional en plantillas y plugins para añadir las características necesarias de monitoreo.",
-        "Implementación de integración continua y respaldos diarios.",
-        "Creación y mantenimiento de una segunda plataforma de Monitoreo Realizada en Angular, Angular Material, Laravel, Mysql, RxJS, Sass con gráficos (configurables), sistema de alarmas, y gestión de usuarios y configuración de parámetros generales.",
-        "Reuniones de planificación en informes."
-      ]
-    },
-    {
       "Tab": "Freelancer",
-      "Title": "Independiente",
-      "Date": "Mayo 2016 - Actualidad",
+      "Title": "Fullstack developer",
+      "Date": "September 2023 - Present",
       "Description": [
-        "Implementacion de mejoras continuas, trabajando en frontend y backend.",
-        "Creacion de plataformas con Angular, Laravel, Wordpress programadas con paradigmas de programación funcional, reactiva y orientada a objetos.",
-        "Automatizacion de procesos con estructuras de datos.",
-        "Maquetacion de diseños con SASS, Bootstrap, Materialize, Bulma, etc."
+        "Mostly frontend related technical activities but sometimes I do backend",
+        "Develop platforms with Angular, Typescript, RxJS, Django, Python, with functional, reactive and object-oriented programming paradigms.",
+        "Implementation of continuous improvements, correcting bugs and implementing new features.",
+        "Functional programming in Javascript / jQuery, styles in SASS.",
+        "Develop Django MTV templates using Python.",
+        "Coding of API requests with RxJS.",
+        "Develop modules with complex reactive forms.",
+        "integration of design improvements and template loading times.",
+        "Automation of processes with data structures.",
+        "Design layout with SASS, Bootstrap, Semantic-UI, Bulma, etc."
       ]
     },
     {
-      "Tab": "Moebius",
-      "Title": "FullStack developer",
-      "Date": "Julio 2017 - Octubre 2018",
+      "Tab": "Continental",
+      "Title": "Software Developer",
+      "Date": "September 2019 - Present",
       "Description": [
-        "Liderando un equipo de 4 personas en el desarrollo de una plataforma de gestión de Datos de turismo hecha en Angular, Laravel y MySQL. ",
-        "Implementacion de CI/CD en Azure. Refactorizando y optimizando tiempos de carga de la aplicación.",
-        "Codificación de peticiones a API con RxJS.",
-        "Crecion de modulos con formularios reactivos complejos",
-        "Redacción de informes semanales acerca de metas y planes."
+        "Develop test automation framework for Trace32 and Vector Canoe test tools using in Python and Robot Framework.",
+        "Integration of test automation framework in CI / CD pipelines with Jenkins and Groovy.",
+        "Develop SW for ECUs in Sensor projects (radar, camera, lidar, etc) in Embedded C.",
+        "Design, implement, develop source code and tests the modules within a SW project.",
+        "Peer reviews (e.g. design, code, module test), pair coding and version control with Git/GitHub",
+        "Refactoring and bug fixing.",
+        "Participate in the necessary requirements engineering.",
+        "Detailed design, coding and module testing of specific SW modules.",
+        "Reuse and adaptation of existing SW modules.",
+        "Delivery of the committed work packages results within the planned time, effort and quality.",
+        "Proactive communication of e.g. delays, problems during development.",
+        "Engaged in a dynamic and collaborative work environment as part of a SCRUM team, functioning within the Agile methodology.",
+        "Mentoring new colleagues and team members."
       ]
     },
     {
-      "Tab": "TechLatam",
-      "Title": "Frontend developer",
-      "Date": "Febrero 2016 - Mayo 2017",
+      "Tab": "Non-SWD/IT",
+      "Title": "Branch Manager Unicredit Bank / ABN AMRO Bank",
+      "Date": "November 2002 - September 2019",
       "Description": [
-        "Creación de plantillas de wordpress con ACF, programación funcional en Javascript / jQuery, estilos en SASS",
-        "integración de mejoras en diseño y tiempos de carga de plantillas.",
-        "Comunicación efectiva con equipo de diseño, trabajando con Avocode / Figma"
-      ]
-    },
-    {
-      "Tab": "CANTV",
-      "Title": "Analista de sistema",
-      "Date": "Noviembre 2015 - Diciembre 2016",
-      "Description": [
-        "Programacion de nuevas funcionalidades para una plataforma de gestión de empleados existente realizada en Angular y ExpressJS",
-        "Realizar refactorización de código antiguo. Asegurar la compatibilidad de cada dependencia en cada actualización, junto también con la actualización regular de Angular."
-      ]
-    },
-    {
-      "Tab": "IEP",
-      "Title": "Profesor de Inglés",
-      "Date": "Enero 2015 - Julio 2015",
-      "Description": [
-        "Enseñando ingles a nivel básico a una matrícula de más de 200 alumnos."
+        "Coordinating and reporting the entire activity of the Branch."
       ]
     }
   ],
 
-  "FeatureProjects.Title": "Proiectele mele",
-  "FeatureProjects.Label": "Proyecto Destacado",
+  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
     {
-      "Title": "Agrourbana",
-      "Description": "Aplicación de monitoreo realizada desde cero con módulo de auth, <span class='underline'>gráficos configurables</span>, <span class='underline'>alarmas configurables</span> y <span class='underline'>gestión de usuarios</span>. Cuenta también con lógica de formularios reactvios para la configuración de parámetros.",
+      "Title": "My Portfolio",
+      "Description": "My portfolio page featuring my work projects and experience.",
       "imgs": [
-        "assets/images/agrourbana/agrourbana1.png",
-        "assets/images/agrourbana/agrourbana2.png",
-        "assets/images/agrourbana/agrourbana3.png",
-        "assets/images/agrourbana/agrourbana4.png",
-        "assets/images/agrourbana/agrourbana5.png"
+        "assets/images/portfolio/portfolio1.PNG",
+        "assets/images/portfolio/portfolio2.PNG",
+        "assets/images/portfolio/portfolio3.PNG",
+        "assets/images/portfolio/portfolio4.PNG",
+        "assets/images/portfolio/portfolio5.PNG",
+        "assets/images/portfolio/portfolio6.PNG",
+        "assets/images/portfolio/portfolio7.PNG",
+        "assets/images/portfolio/portfolio8.PNG"
       ],
-      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      "ghLink": "https://github.com/daniordan/ng-daniordan-portfolio",
+      "demoLink": "https://ng-daniordan-portfolio.vercel.app/en",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "Reactive forms",
+        "SCSS",
+        "CSS",
+        "HTML"
+      ]
     },
     {
-      "Title": "Tu super plan",
-      "Description": "Cotizador de planes de salud que cuenta con un buscador con el que se hacen consultas avanzadas. Los planes son mostrados en base a la edad, ingreso mensual y ubicacion del usuario. Cuenta con <span class='underline'>chat en linea</span>, <span class='underline'>formulario de contacto</span>, <span class='underline'>sistema de notificaiones por whatsapp y correo</span>, <span class='underline'>auth</span>, y <span class='underline'>gestion de informacion internet a travez del rol de administrador</span>.",
+      "Title": "Space Social",
+      "Description": "Social Outer Space Fan Community project / social media website for fans of things that have to do with outer spaces, built using Django and Python. Features: create groups on various topics (e.g. SpaceX, NASA, Pluto, etc.), create posts in groups, users can leave and join other groups, groups (similar to sub-reddits), multiple users and authorizations, post in groups (similar to a tweet), linking user profiles. Includes SQLite database for storing and managing user and app data, user authentication, posts and groups.",
       "imgs": [
-        "assets/images/tusuperplan/tusuperplan1.png",
-        "assets/images/tusuperplan/tusuperplan2.png",
-        "assets/images/tusuperplan/tusuperplan3.png",
-        "assets/images/tusuperplan/tusuperplan4.png",
-        "assets/images/tusuperplan/tusuperplan5.png"
+        "assets/images/social/social1.PNG",
+        "assets/images/social/social2.PNG",
+        "assets/images/social/social3.PNG",
+        "assets/images/social/social4.PNG",
+        "assets/images/social/social5.PNG",
+        "assets/images/social/social6.PNG",
+        "assets/images/social/social7.PNG",
+        "assets/images/social/social8.PNG",
+        "assets/images/social/social9.PNG",
+        "assets/images/social/social10.PNG",
+        "assets/images/social/social11.PNG",
+        "assets/images/social/social12.PNG",
+        "assets/images/social/social13.PNG",
+        "assets/images/social/social14.PNG",
+        "assets/images/social/social15.PNG",
+        "assets/images/social/social16.PNG",
+        "assets/images/social/social17.PNG"
       ],
-      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      "ghLink": "https://github.com/daniordan/dj-social",
+      "demoLink": "http://mariusdaniordan.pythonanywhere.com",
+      "Technologies": [
+        "Django",
+        "Python",
+        "JavaScript",
+        "SQLite",
+        "CSS",
+        "HTML",
+        "Bootstrap",
+        "Misaka",
+        "Braces"
+      ]
     },
     {
-      "Title": "Proyexiot",
-      "Description": "Plataforma de monitoreo de datos pertenecientes a pozos de agua, remolcadores y diversas instalaciones realizada desde cero con módulo de auth, <span class='underline'>gráficos configurables</span>, <span class='underline'>alarmas configurables</span>, <span class='underline'>gestión de usuarios</span> y <span class='underline'>geolocalizacion con openlayers.</span> Cuenta también con lógica de formularios reactivos para la configuración de parámetros.",
+      "Title": "Email Client",
+      "Description": "Email client application. Main features: sign up (creates a new account on a backend server), sign in, sign out (the user has the ability to sign in again with the new account created), access to inbox, user is able to receive and send real emails, mail details view, compose, replay to emails.",
       "imgs": [
-        "assets/images/proyex/proyex1.png",
-        "assets/images/proyex/proyex2.png",
-        "assets/images/proyex/proyex3.png",
-        "assets/images/proyex/proyex4.png",
-        "assets/images/proyex/proyex5.png",
-        "assets/images/proyex/proyex6.png",
-        "assets/images/proyex/proyex7.png",
-        "assets/images/proyex/proyex8.png",
-        "assets/images/proyex/proyex9.png",
-        "assets/images/proyex/proyex10.png",
-        "assets/images/proyex/proyex11.png",
-        "assets/images/proyex/proyex12.png"
+        "assets/images/emailclient/emailclient1.PNG",
+        "assets/images/emailclient/emailclient2.PNG",
+        "assets/images/emailclient/emailclient3.PNG",
+        "assets/images/emailclient/emailclient4.PNG",
+        "assets/images/emailclient/emailclient5.PNG",
+        "assets/images/emailclient/emailclient6.PNG",
+        "assets/images/emailclient/emailclient7.PNG",
+        "assets/images/emailclient/emailclient8.PNG",
+        "assets/images/emailclient/emailclient9.PNG"
       ],
-      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      "ghLink": "https://github.com/daniordan/ng-emailclient",
+      "demoLink": "https://ng-emailclient-daniordan.vercel.app/",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "REST API",
+        "Reactive forms",
+        "CSS",
+        "HTML",
+        "Semantic-UI"
+      ]
     },
     {
-      "Title": "Hands game",
-      "Description": "Juego de piedra papel y tijeras extendido. Un proyecto personal desarrollado en angular en el que juegas al azar contra la máquina. Cuenta con la utilización de servicios, interfaces y componentes.",
-      "imgs": ["assets/images/hands-game.png"],
-      "ghLink": "https://github.com/andresjosehr/hands-game",
-      "demoLink": "https://proyectos.andresjosehr.com/hands-game",
-      "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
+      "Title": "Components",
+      "Description": "Application that recreates reusable widgets, including a modal, inside separate reusable components with interactivity inside Angular and Typescript code. Every component is designed to be fully reusable and allows user navigation through application's pages. Recreates components from Semantic-UI CSS style library by avoiding the use of outside JavaScript and JQuery libraries.",
+      "imgs": [
+        "assets/images/comps/comps1.PNG",
+        "assets/images/comps/comps2.PNG",
+        "assets/images/comps/comps3.PNG",
+        "assets/images/comps/comps4.PNG",
+        "assets/images/comps/comps5.PNG",
+        "assets/images/comps/comps6.PNG",
+        "assets/images/comps/comps7.PNG",
+        "assets/images/comps/comps8.PNG"
+      ],
+      "ghLink": "https://github.com/daniordan/ng-comps",
+      "demoLink": "https://ng-comps-daniordan.vercel.app",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "Reactive forms",
+        "CSS",
+        "HTML",
+        "Bootstrap",
+        "Semantic-UI"
+      ]
     },
     {
-      "Title": "Countries viewer",
-      "Description": "Interfaz que consume una API de países con el que se pueden visualizar lista de países, ver detalles de cada país, filtrar por nombre y región. Ademas cuenta con un dark mode para alternar entre el tema oscuro y el claro.",
-      "imgs": ["assets/images/countries-viewer.png"],
-      "ghLink": "https://github.com/andresjosehr/countries-viewer",
-      "demoLink": "https://proyectos.andresjosehr.com/countries-viewer",
-      "Technologies": ["Angular", "RxJS", "SASS", "API"]
+      "Title": "Wikipedia Search",
+      "Description": "Wikipedia Searching Tool for Wikipedia platform with search feature implemented to be able to search Wikipedia base of articles on any topic, by fetching data from Wikipedia API.",
+      "imgs": [
+        "assets/images/wsearch/wsearch1.PNG",
+        "assets/images/wsearch/wsearch2.PNG"
+      ],
+      "ghLink": "https://github.com/daniordan/ng-wikipedia-search",
+      "demoLink": "https://ng-wikipedia-search-daniordan.vercel.app",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "REST API",
+        "Reactive forms",
+        "CSS",
+        "HTML",
+        "Bulma"
+      ]
+    },
+    {
+      "Title": "Bloggy",
+      "Description": "Multi-user blog Django+Python application for a company blog not just personal blog. Features: SQLite database in backend for storing and managing user and blog data, sign up, sign in, sign out, user is able to sign in again with the new account created, create posts, add comments on posts, edit and delete posts, publish drafted posts and delete drafts. The multi-user behavior can be easily extended to feature projects.",
+      "imgs": [
+        "assets/images/blog/blog1.PNG",
+        "assets/images/blog/blog2.PNG",
+        "assets/images/blog/blog3.PNG",
+        "assets/images/blog/blog4.PNG",
+        "assets/images/blog/blog5.PNG",
+        "assets/images/blog/blog6.PNG",
+        "assets/images/blog/blog7.PNG",
+        "assets/images/blog/blog8.PNG",
+        "assets/images/blog/blog9.PNG",
+        "assets/images/blog/blog10.PNG",
+        "assets/images/blog/blog11.PNG",
+        "assets/images/blog/blog12.PNG",
+        "assets/images/blog/blog13.PNG",
+        "assets/images/blog/blog14.PNG",
+        "assets/images/blog/blog15.PNG"
+      ],
+      "ghLink": "https://github.com/daniordan/dj-blog",
+      "Technologies": [
+        "Django",
+        "Python",
+        "JavaScript",
+        "SQLite",
+        "CSS",
+        "HTML",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "Landing Page (WIP)",
+      "Description": "Project that is featuring a landing page. It's still in development.",
+      "imgs": ["assets/images/landing/landing1.PNG"],
+      "ghLink": "https://github.com/daniordan/ng-landing",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "Reactive forms",
+        "CSS",
+        "HTML",
+        "Bootstrap",
+        "Semantic-UI",
+        "Bulma"
+      ]
     }
   ],
 
-  "OtherProjects.Title": "Alte proiecte",
+  "OtherProjects.Title": "More projects",
   "OtherProjects.Projects": [
     {
-      "Title": "Pokemon",
-      "Description": "Buscador de pokemons que utiliza la pokeapi. Se usó programación orientada a objetos para organizar la información de los pokemons junto con su respectiva imagen.",
-      "ghLink": "https://github.com/andresjosehr/pokemon-angular",
-      "demoLink": "https://proyectos.andresjosehr.com/pokemon-list",
-      "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+      "Title": "Fast-Paced Math Game",
+      "Description": "Simple one-page design that features a math practice mini-game. Features: generates a random math adding problem and the user needs to figure out the answer, marks with light green close answer from user, metrics/statistics to show to user how many seconds it's taking per solution.",
+      "ghLink": "https://github.com/daniordan/ng-mathform",
+      "demoLink": "https://ng-mathform-daniordan.vercel.app",
+      "Technologies": ["Angular", "Typescript", "RxJS", "Reactive forms"]
     },
     {
-      "Title": "Coming soon page",
-      "Description": "Proyecto personal de una página dividida de dos columnas para ser usado como 'Coming soon page'. Programada para ser totalmente responsive design. Cuenta con un campo de formulario para suscribirse por correo electrónico.",
-      "ghLink": "https://github.com/andresjosehr/coming-soon-page",
-      "demoLink": "https://proyectos.andresjosehr.com/coming-soon-page",
-      "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+      "Title": "Typing Challenge",
+      "Description": "A single page with a minimal design which features a typing challenge mini-game. Generates a random sentence and compares it with the user's input. Marks with green color if the user's input is correct and red otherwise.",
+      "ghLink": "https://github.com/daniordan/ng-typing",
+      "demoLink": "https://ng-typing-daniordan.vercel.app",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "Reactive forms",
+        "CSS",
+        "HTML",
+        "Bulma",
+        "Faker"
+      ]
     },
     {
-      "Title": "Four card feature section",
-      "Description": "Una sola página que cuenta con un diseño minimalista que enumera 4 características en 4 cards. Se usan animaciones de entrada con angular animations.",
-      "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
-      "demoLink": "https://proyectos.andresjosehr.com/four-card-feature-section",
-      "Technologies": ["Angular", "SASS", "CSS GRID"]
+      "Title": "Password Generator",
+      "Description": "Simple one-page design that features a random password generator.",
+      "ghLink": "https://github.com/daniordan/ng-pw-generator",
+      "demoLink": "https://ng-pw-generator-daniordan.vercel.app",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "Reactive forms",
+        "CSS",
+        "HTML",
+        "Bulma"
+      ]
     },
     {
-      "Title": "Social proof section",
-      "Description": "Proyecto personal de una página diseñada a partir de un diseño hecho en figma. Se utilizó angular para el desarrollo junto con SASS y CSS GRID.",
-      "ghLink": "https://github.com/andresjosehr/social-proof-section",
-      "demoLink": "https://proyectos.andresjosehr.com/social-proof-section",
-      "Technologies": ["Angular", "CSS GRID", "GIT"]
+      "Title": "Credit Card",
+      "Description": "Simple one-page design that features input widgets with card and card holder details with validation. The card is rendered on screen with real-time details changing based on user input.",
+      "ghLink": "https://github.com/daniordan/ng-creditcard",
+      "demoLink": "https://ng-creditcard-daniordan.vercel.app",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "Reactive forms",
+        "CSS",
+        "HTML",
+        "Bulma"
+      ]
     },
     {
-      "Title": "FAQ accordion card",
-      "Description": "Acordeón de preguntas frecuentes con lógica y animnaciones realizadas en Angular.",
-      "ghLink": "https://github.com/andresjosehr/faq-accordion",
-      "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
-      "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+      "Title": "Photo-fetching App",
+      "Description": "A single page application that has a minimal design, for fetching and rendering random photos from the Internet.",
+      "ghLink": "https://github.com/daniordan/ng-photos",
+      "demoLink": "https://ng-photos-daniordan.vercel.app",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "Reactive forms",
+        "CSS",
+        "HTML",
+        "Bulma"
+      ]
     },
     {
-      "Title": "Profile card",
-      "Description": "Simple diseño de una página que cuenta con una carta de perfil con información básica de una persona.",
-      "ghLink": "https://github.com/andresjosehr/profile-card-component",
-      "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
-      "Technologies": ["Angular", "SASS", "GIT"]
+      "Title": "Pages",
+      "Description": "A single page that has a minimal design, rendering just one image and title for that image on the screen at a time. Bootstrap paginator was used for user interaction.",
+      "ghLink": "https://github.com/daniordan/ng-pages",
+      "demoLink": "https://ng-pages-daniordan.vercel.app",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "Reactive forms",
+        "CSS",
+        "HTML",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "Cards",
+      "Description": "A single page that has a minimal design, to display a series of three cards looking things or posts to a user.",
+      "ghLink": "https://github.com/daniordan/ng-cards",
+      "demoLink": "https://ng-cards-daniordan.vercel.app",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "Reactive forms",
+        "CSS",
+        "HTML",
+        "Bulma"
+      ]
+    },
+    {
+      "Title": "Email form",
+      "Description": "Simple one-page design that features a email form with validation included.",
+      "ghLink": "https://github.com/daniordan/ng-emailform",
+      "demoLink": "https://ng-emailform-daniordan.vercel.app",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "Template forms",
+        "CSS",
+        "HTML",
+        "Bulma"
+      ]
+    },
+    {
+      "Title": "Payment form",
+      "Description": "Simple one-page design that features a payment form in which user can input some basic payment information.",
+      "ghLink": "https://github.com/daniordan/ng-payment-form",
+      "demoLink": "https://ng-payment-form-daniordan.vercel.app",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "Reactive forms",
+        "CSS",
+        "HTML",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "EN-RO Translator",
+      "Description": "EN-RO translation application.",
+      "ghLink": "https://github.com/daniordan/ng-translator",
+      "demoLink": "https://ng-translator-daniordan.vercel.app/",
+      "Technologies": [
+        "Angular",
+        "Typescript",
+        "RxJS",
+        "Reactive forms",
+        "REST API",
+        "CSS",
+        "HTML",
+        "Bulma"
+      ]
+    },
+    {
+      "Title": "Sort",
+      "Description": "A single sorting algorithm to from least to greatest which work with multiple different data structures: arrays of numbers, strings and linked lists (where each node contains a number). one single sorting algorithm to work equally well for all of these very different data structures.",
+      "ghLink": "https://github.com/daniordan/ts-sort",
+      "Technologies": ["Typescript", "JavaScript"]
+    },
+    {
+      "Title": "Maps",
+      "Description": "App randomly generates two entities: User and Company with random data: name, age, company name, phone, address, etc. Every User in every Company will have a location property. It will generate location to show it on Google map inside the browser for User and Company, using GoogleApis.",
+      "ghLink": "https://github.com/daniordan/ts-maps",
+      "Technologies": [
+        "Typescript",
+        "JavaScript",
+        "REST API",
+        "HTML",
+        "CSS",
+        "Faker"
+      ]
+    },
+    {
+      "Title": "Connect Four Game",
+      "Description": "Well-known connect-four mini-game, built using JavaScript and JQuery.",
+      "ghLink": "https://github.com/daniordan/js-connect-four",
+      "Technologies": ["JavaScript", "JQuery", "HTML", "CSS"]
+    },
+    {
+      "Title": "Tic Tac Toe Game",
+      "Description": "Tic Tac Toe mini-game, built using JavaScript and JQuery.",
+      "ghLink": "https://github.com/daniordan/js-tic-tac-toe",
+      "Technologies": ["JavaScript", "JQuery", "HTML", "CSS"]
     }
   ],
 
-  "Contact.Pretitle": "Y... ¿Ahora?",
-  "Contact.Title": "¡Saludame!",
-  "Contact.Content": "Estaré encantado de recibir tu contacto si quieres conversar acerca de nuevas oportunidades. Escríbeme, y te responderé tan pronto como vea tu mensaje.",
-  "Contact.Btn": "Contactame"
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
+  "Contact.Btn": "Say Hello"
 }
