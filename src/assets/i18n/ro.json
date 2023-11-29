@@ -39,7 +39,7 @@
     {
       "Tab": "Continental",
       "Title": "Software Developer",
-      "Date": "September 2019 - Present",
+      "Date": "September 2019 - September 2023",
       "Description": [
         "Develop test automation framework for Trace32 and Vector Canoe test tools using in Python and Robot Framework.",
         "Integration of test automation framework in CI / CD pipelines with Jenkins and Groovy.",
