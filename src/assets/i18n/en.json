@@ -7,6 +7,9 @@
   "Header.cvName": "CV_Dan_Iordan_en.pdf",
 
   "Banner.Pretitle": "<Hey! /> Welcome, I'm",
+  "Banner.Title.Item1": "Dan Iordan.",
+  "Banner.Title.Item2": "Software Developer",
+  "Banner.Title.Item3": "Love to Craft Digital products & things",
   "Banner.Description": "I have <span class='underline'>4+ years of experience</span> in software development. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular (+Typescript & RxJS)</span> and <span class='underline'>Django (+Python)</span> applying best practices and development standards.",
   "Banner.ActionBtn": "Get in touch",
 
@@ -25,14 +28,14 @@
       "Date": "September 2023 - Present",
       "Description": [
         "Mostly frontend related technical activities but sometimes I do backend",
-        "Develop platforms with Angular, Typescript, RxJS, Django, Python, with functional, reactive and object-oriented programming paradigms.",
-        "Implementation of continuous improvements, correcting bugs and implementing new features.",
-        "Functional programming in Javascript / jQuery, styles in SASS.",
-        "Develop Django MTV templates using Python.",
-        "Coding of API requests with RxJS.",
-        "Develop modules with complex reactive forms.",
-        "Integration of design improvements and template loading times.",
-        "Automation of processes with data structures.",
+        "Develop platforms with Angular, Typescript, RxJS, Django, Python, with functional, reactive and object-oriented programming paradigms",
+        "Implementation of continuous improvements, correcting bugs and implementing new features",
+        "Functional programming in JavaScript / jQuery, styles in SASS",
+        "Develop Django MTV templates using Python",
+        "Coding of API requests with RxJS",
+        "Develop modules with complex reactive forms",
+        "Integration of design improvements and template loading times",
+        "Automation of processes with data structures",
         "Design layout with SASS, Bootstrap, Semantic-UI, Bulma, etc."
       ]
     },
@@ -41,19 +44,19 @@
       "Title": "Software Developer",
       "Date": "September 2019 - September 2023",
       "Description": [
-        "Develop test automation framework for Trace32 and Vector Canoe test tools using in Python and Robot Framework.",
-        "Integration of test automation framework in CI / CD pipelines with Jenkins and Groovy.",
-        "Develop SW for ECUs in Sensor projects (radar, camera, lidar, etc) in Embedded C.",
-        "Design, implement, develop source code and tests the modules within a SW project.",
+        "Develop test automation framework for Trace32 and Vector Canoe test tools using in Python and Robot Framework",
+        "Integration of test automation framework in CI / CD pipelines with Jenkins and Groovy",
+        "Develop SW for ECUs in Sensor projects (radar, camera, lidar, etc) in Embedded C",
+        "Design, implement, develop source code and tests the modules within a SW project",
         "Peer reviews (e.g. design, code, module test), pair coding and version control with Git/GitHub",
-        "Refactoring and bug fixing.",
-        "Participate in the necessary requirements engineering.",
-        "Detailed design, coding and module testing of specific SW modules.",
-        "Reuse and adaptation of existing SW modules.",
-        "Delivery of the committed work packages results within the planned time, effort and quality.",
-        "Proactive communication of e.g. delays, problems during development.",
-        "Engaged in a dynamic and collaborative work environment as part of a SCRUM team, functioning within the Agile methodology.",
-        "Mentoring new colleagues and team members."
+        "Refactoring and bug fixing",
+        "Participate in the necessary requirements engineering",
+        "Detailed design, coding and module testing of specific SW modules",
+        "Reuse and adaptation of existing SW modules",
+        "Delivery of the committed work packages results within the planned time, effort and quality",
+        "Proactive communication of e.g. delays, problems during development",
+        "Engaged in a dynamic and collaborative work environment as part of a SCRUM team, functioning within the Agile methodology",
+        "Mentoring new colleagues and team members"
       ]
     },
     {
