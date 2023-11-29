@@ -434,5 +434,7 @@
   "Contact.Pretitle": "Ce urmează",
   "Contact.Title": "Contactează-mă!",
   "Contact.Content": "Scrie-mi dacă dorești să discutăm despre noi oportunități, și voi răspunde în cel mai scurt timp posibil, imediat ce voi vedea mesajul tău.",
-  "Contact.Btn": "Spune Salut"
+  "Contact.Btn": "Spune Salut",
+
+  "Footer.Credits": "Dezvoltat cu Angular de Dan Iordan"
 }
