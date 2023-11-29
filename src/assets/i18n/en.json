@@ -162,7 +162,7 @@
     },
     {
       "Title": "Components",
-      "Description": "Application that recreates reusable widgets, including a modal, inside separate reusable components with interactivity inside Angular and Typescript code. Every component is designed to be fully reusable and allows user navigation through application's pages. Recreates components from Semantic-UI CSS style library by avoiding the use of outside JavaScript and JQuery libraries.",
+      "Description": "Application that recreates reusable widgets, including a modal, inside separate reusable components with interactivity inside Angular and Typescript code. Every component is designed to be fully reusable and allows user navigation through application's pages. Recreates components from Semantic-UI CSS style library by avoiding the use of outside JavaScript and jQuery libraries.",
       "imgs": [
         "assets/images/comps/comps1.PNG",
         "assets/images/comps/comps2.PNG",
@@ -423,15 +423,15 @@
     },
     {
       "Title": "Connect Four Game",
-      "Description": "Well-known connect-four mini-game, built using JavaScript and JQuery.",
+      "Description": "Well-known connect-four mini-game, built using JavaScript and jQuery.",
       "ghLink": "https://github.com/daniordan/js-connect-four",
-      "Technologies": ["JavaScript", "JQuery", "HTML", "CSS"]
+      "Technologies": ["JavaScript", "jQuery", "HTML", "CSS"]
     },
     {
       "Title": "Tic Tac Toe Game",
-      "Description": "Tic Tac Toe mini-game, built using JavaScript and JQuery.",
+      "Description": "Tic Tac Toe mini-game, built using JavaScript and jQuery.",
       "ghLink": "https://github.com/daniordan/js-tic-tac-toe",
-      "Technologies": ["JavaScript", "JQuery", "HTML", "CSS"]
+      "Technologies": ["JavaScript", "jQuery", "HTML", "CSS"]
     }
   ],
 

@@ -96,7 +96,7 @@
     },
     {
       "Title": "Space Social",
-      "Description": "Proiect Social Outer Space - media website - de socializare pentru fanii lucrurilor legate de spațiul cosmic, construit folosind Django și Python. Caracteristici: crearea de grupuri pe diverse teme (de exemplu, SpaceX, NASA, Pluto etc.), crearea de postări în grupuri, utilizatorii pot părăsi și se pot alătura altor grupuri, grupuri (asemănătoare cu sub-reddituri), utilizatori multipli și autorizări, postări în grupuri (asemănătoare cu un tweet), legarea profilurilor de utilizatori. Include o bază de date SQLite pentru stocarea și gestionarea datelor utilizatorilor și ale aplicației, autentificarea utilizatorilor, postările și grupurile.",
+      "Description": "Proiect Social Outer Space - media website - de socializare pentru fanii lucrurilor legate de Cosmos, construit folosind Django și Python. Funcționalități: crearea de grupuri pe teme (SpaceX, NASA, etc.), postări în grupuri, utilizatorii pot părăsi și se pot alătura altor grupuri, grupuri, utilizatori multipli și autorizări, postări în grupuri, legarea profilurilor de utilizatori. Include o bază de date SQLite pentru stocare și gestionare date utilizatori și ale aplicației, autentificare utilizatori, postări și grupuri.",
       "imgs": [
         "assets/images/social/social1.PNG",
         "assets/images/social/social2.PNG",
@@ -159,7 +159,7 @@
     },
     {
       "Title": "Components",
-      "Description": "Application that recreates reusable widgets, including a modal, inside separate reusable components with interactivity inside Angular and Typescript code. Every component is designed to be fully reusable and allows user navigation through application's pages. Recreates components from Semantic-UI CSS style library by avoiding the use of outside JavaScript and JQuery libraries.",
+      "Description": "Aplicație care recreează widget-uri reutilizabile, inclusiv un modal, în componente separate reutilizabile cu interactivitate în codul Angular și Typescript. Fiecare componentă este proiectată să fie complet reutilizabilă și permite navigarea utilizatorului prin paginile aplicației. Recreează componente din biblioteca de stiluri CSS Semantic-UI, evitând utilizarea bibliotecilor externe JavaScript și jQuery.",
       "imgs": [
         "assets/images/comps/comps1.PNG",
         "assets/images/comps/comps2.PNG",
@@ -185,7 +185,7 @@
     },
     {
       "Title": "Wikipedia Search",
-      "Description": "Wikipedia Searching Tool for Wikipedia platform with search feature implemented to be able to search Wikipedia base of articles on any topic, by fetching data from Wikipedia API.",
+      "Description": "Instrument de căutare pentru platforma Wikipedia, cu funcția de căutare implementată pentru a putea căuta în baza de articole Wikipedia pe orice subiect, prin extragerea datelor din API-ul Wikipedia.",
       "imgs": [
         "assets/images/wsearch/wsearch1.PNG",
         "assets/images/wsearch/wsearch2.PNG"
@@ -205,7 +205,7 @@
     },
     {
       "Title": "Bloggy",
-      "Description": "Multi-user blog Django+Python application for a company blog not just personal blog. Features: SQLite database in backend for storing and managing user and blog data, sign up, sign in, sign out, user is able to sign in again with the new account created, create posts, add comments on posts, edit and delete posts, publish drafted posts and delete drafts. The multi-user behavior can be easily extended to feature projects.",
+      "Description": "Aplicație blog multi-utilizator Django+Python pentru un blog de companie, nu doar personal. Funcționalități: bază de date SQLite în backend pentru stocarea și gestionarea datelor utilizatorilor și ale blogului, înregistrare, autentificare, deconectare, utilizatorul poate să se autentifice din nou cu contul nou creat, crearea de postări, adăugarea de comentarii la postări, editarea și ștergerea postărilor, publicarea postărilor salvate ca ciornă și ștergerea ciornelor. Comportamentul multi-utilizator poate fi extins ușor pentru a-l include și în alte proiecte.",
       "imgs": [
         "assets/images/blog/blog1.PNG",
         "assets/images/blog/blog2.PNG",
@@ -236,7 +236,7 @@
     },
     {
       "Title": "Landing Page (WIP)",
-      "Description": "Project that is featuring a landing page. It's still in development.",
+      "Description": "Proiect care dezvoltă o pagină principală pentru un site. Este încă în dezvoltare.",
       "imgs": ["assets/images/landing/landing1.PNG"],
       "ghLink": "https://github.com/daniordan/ng-landing",
       "Technologies": [
@@ -257,14 +257,14 @@
   "OtherProjects.Projects": [
     {
       "Title": "Fast-Paced Math Game",
-      "Description": "Simple one-page design that features a math practice mini-game. Features: generates a random math adding problem and the user needs to figure out the answer, marks with light green close answer from user, metrics/statistics to show to user how many seconds it's taking per solution.",
+      "Description": "Design simplu care include un mini-joc de matematică. Funcționalități: generează o problemă aleatoare de adunare și utilizatorul trebuie să găsească răspunsul, marchează cu verde deschis răspunsurile apropiate ale utilizatorului, metrica ce arăta utilizatorului câte secunde durează per soluție.",
       "ghLink": "https://github.com/daniordan/ng-mathform",
       "demoLink": "https://ng-mathform-daniordan.vercel.app",
       "Technologies": ["Angular", "Typescript", "RxJS", "Reactive forms"]
     },
     {
       "Title": "Typing Challenge",
-      "Description": "A single page with a minimal design which features a typing challenge mini-game. Generates a random sentence and compares it with the user's input. Marks with green color if the user's input is correct and red otherwise.",
+      "Description": "O singură pagină cu un design minimalist care include un mini-joc de dactilografiere. Generează o propoziție aleatoare și o compară cu valoarea introdusă de utilizator. Marchează cu verde dacă valoarea utilizatorului este corectă și cu roșu în caz contrar.",
       "ghLink": "https://github.com/daniordan/ng-typing",
       "demoLink": "https://ng-typing-daniordan.vercel.app",
       "Technologies": [
@@ -280,7 +280,7 @@
     },
     {
       "Title": "Password Generator",
-      "Description": "Simple one-page design that features a random password generator.",
+      "Description": "Design simplu pe o singură pagină care include un generator de parole aleatoare.",
       "ghLink": "https://github.com/daniordan/ng-pw-generator",
       "demoLink": "https://ng-pw-generator-daniordan.vercel.app",
       "Technologies": [
@@ -295,7 +295,7 @@
     },
     {
       "Title": "Credit Card",
-      "Description": "Simple one-page design that features input widgets with card and card holder details with validation. The card is rendered on screen with real-time details changing based on user input.",
+      "Description": "Design simplu pe o singură pagină care include widget-uri de intrare pentru detalii despre card și titularul cardului, cu validare. Cardul este redat pe ecran cu detalii care se schimbă în timp real în funcție de datele introduse de utilizator.",
       "ghLink": "https://github.com/daniordan/ng-creditcard",
       "demoLink": "https://ng-creditcard-daniordan.vercel.app",
       "Technologies": [
@@ -310,7 +310,7 @@
     },
     {
       "Title": "Photo-fetching App",
-      "Description": "A single page application that has a minimal design, for fetching and rendering random photos from the Internet.",
+      "Description": "O aplicație pe o singură pagină cu un design minimalist, pentru extragerea și redarea de imagini aleatoare de pe internet.",
       "ghLink": "https://github.com/daniordan/ng-photos",
       "demoLink": "https://ng-photos-daniordan.vercel.app",
       "Technologies": [
@@ -325,7 +325,7 @@
     },
     {
       "Title": "Pages",
-      "Description": "A single page that has a minimal design, rendering just one image and title for that image on the screen at a time. Bootstrap paginator was used for user interaction.",
+      "Description": "O singură pagină cu un design minimalist, care redă doar o imagine și un titlu pentru acea imagine pe ecran la un moment dat. Paginatorul Bootstrap a fost folosit pentru interacțiunea cu utilizatorul.",
       "ghLink": "https://github.com/daniordan/ng-pages",
       "demoLink": "https://ng-pages-daniordan.vercel.app",
       "Technologies": [
@@ -340,8 +340,7 @@
     },
     {
       "Title": "Cards",
-      "Description": "A single page that has a minimal design, to display a series of three cards looking things or posts to a user.",
-      "ghLink": "https://github.com/daniordan/ng-cards",
+      "Description": "O singură pagină cu un design minimalist, pentru afișarea unei serii de trei elemente asemănătoare cu card-uri sau postări către utilizator.",
       "demoLink": "https://ng-cards-daniordan.vercel.app",
       "Technologies": [
         "Angular",
@@ -355,7 +354,7 @@
     },
     {
       "Title": "Email form",
-      "Description": "Simple one-page design that features a email form with validation included.",
+      "Description": "Design simplu pe o singură pagină care include un formular de email cu validare inclusă.",
       "ghLink": "https://github.com/daniordan/ng-emailform",
       "demoLink": "https://ng-emailform-daniordan.vercel.app",
       "Technologies": [
@@ -370,7 +369,7 @@
     },
     {
       "Title": "Payment form",
-      "Description": "Simple one-page design that features a payment form in which user can input some basic payment information.",
+      "Description": "Design simplu pe o singură pagină care include un formular de plată în care utilizatorul poate introduce informații de plată de bază.",
       "ghLink": "https://github.com/daniordan/ng-payment-form",
       "demoLink": "https://ng-payment-form-daniordan.vercel.app",
       "Technologies": [
@@ -385,7 +384,7 @@
     },
     {
       "Title": "EN-RO Translator",
-      "Description": "EN-RO translation application.",
+      "Description": "Aplicație de traducere din engleză în română.",
       "ghLink": "https://github.com/daniordan/ng-translator",
       "demoLink": "https://ng-translator-daniordan.vercel.app/",
       "Technologies": [
@@ -401,13 +400,13 @@
     },
     {
       "Title": "Sort",
-      "Description": "A single sorting algorithm to from least to greatest which work with multiple different data structures: arrays of numbers, strings and linked lists (where each node contains a number). one single sorting algorithm to work equally well for all of these very different data structures.",
+      "Description": "Un singur algoritm de sortare de la cel mai mic la cel mai mare și care poate lucra cu mai multe structuri de date diferite: tablouri de numere, șiruri de caractere și liste înlănțuite (unde fiecare nod conține un număr). Un singur algoritm de sortare care să funcționeze la fel de bine pentru toate aceste structuri de date foarte diferite.",
       "ghLink": "https://github.com/daniordan/ts-sort",
       "Technologies": ["Typescript", "JavaScript"]
     },
     {
       "Title": "Maps",
-      "Description": "App randomly generates two entities: User and Company with random data: name, age, company name, phone, address, etc. Every User in every Company will have a location property. It will generate location to show it on Google map inside the browser for User and Company, using GoogleApis.",
+      "Description": "Aplicația generează în mod aleator două entități: Utilizator și Companie, cu date aleatorii precum nume, vârstă, adresă, etc. Fiecare Utilizator din fiecare Companie va avea o locație pentru a o afișa pe harta Google în browser pentru Utilizator și Companie, utilizând GoogleApis.",
       "ghLink": "https://github.com/daniordan/ts-maps",
       "Technologies": [
         "Typescript",
@@ -420,20 +419,20 @@
     },
     {
       "Title": "Connect Four Game",
-      "Description": "Well-known connect-four mini-game, built using JavaScript and JQuery.",
+      "Description": "Un mini-joc connect-four bine cunoscut, construit folosind JavaScript și jQuery.",
       "ghLink": "https://github.com/daniordan/js-connect-four",
-      "Technologies": ["JavaScript", "JQuery", "HTML", "CSS"]
+      "Technologies": ["JavaScript", "jQuery", "HTML", "CSS"]
     },
     {
       "Title": "Tic Tac Toe Game",
-      "Description": "Tic Tac Toe mini-game, built using JavaScript and JQuery.",
+      "Description": "Un mini-joc X și 0 (Tic Tac Toe), construit folosind JavaScript și jQuery.",
       "ghLink": "https://github.com/daniordan/js-tic-tac-toe",
-      "Technologies": ["JavaScript", "JQuery", "HTML", "CSS"]
+      "Technologies": ["JavaScript", "jQuery", "HTML", "CSS"]
     }
   ],
 
-  "Contact.Pretitle": "What’s Next",
-  "Contact.Title": "Get in touch!",
-  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
-  "Contact.Btn": "Say Hello"
+  "Contact.Pretitle": "Ce urmează",
+  "Contact.Title": "Contactează-mă!",
+  "Contact.Content": "Scrie-mi dacă dorești să discutăm despre noi oportunități, și voi răspunde în cel mai scurt timp posibil, imediat ce voi vedea mesajul tău.",
+  "Contact.Btn": "Spune Salut"
 }
