@@ -2,6 +2,8 @@
 
 My portfolio page featuring my work projects and experience.
 
+Link: https://ng-daniordan-portfolio.vercel.app/en
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Prerequisites
